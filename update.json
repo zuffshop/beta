@@ -1,8 +1,9 @@
 {
-  "latest_version": "1.0.1",
+  "latest_version": "1.0.0",
   "apk_url": "https://github.com/username/repo/releases/download/1.2.0/app-release.apk",
   "changelog": "ปรับปรุงประสิทธิภาพและแก้บั๊ก"
 }
+
 
 
 
